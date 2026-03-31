@@ -1,6 +1,7 @@
 {
   "packs": [
-    "stickers.json"
+    "stickers.json",
+    "gifs.json"
   ],
   "homeserver_url": "https://matrix.artemis-corp.de"
 }
